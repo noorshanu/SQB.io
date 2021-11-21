@@ -1596,7 +1596,7 @@ h6,
 }
 
 .bg-theme {
-    background-color: #1d1e20 !important;
+    background-color: #000000 !important;
 }
 
 .bg-theme.current {
@@ -18466,7 +18466,7 @@ hr+.nk-block {
 
 .is-transparent .header-main {
     position: absolute !important;
-    background-color: #1d1e20;
+    background-color: #000000;
 }
 
 .has-fixed .header-main {
