@@ -484,8 +484,7 @@ h6,
 
 .btn-primary {
     background-color: #f907fc;
-    background-image: linear-gradient( 315deg, #f907fc 22%, #05d6d9 74%);
-    border-color: #007bff;
+    background-image: linear-gradient( 315deg, #e93e7d 22%, #58ddf0 74%);
 }
 
 .text-regular-sm {
@@ -4617,7 +4616,7 @@ hr {
 
 .btn-primary {
     background-color: #e81c6f;
-    border-color: #e81c6f;
+    border-color: #58ddf0;
 }
 
 .btn-primary:hover,
@@ -5070,7 +5069,7 @@ hr {
 }
 
 .btn-round {
-    border-radius: 15px;
+    border-radius: 10px;
 }
 
 .btn-round:before {
@@ -5086,7 +5085,7 @@ hr {
 }
 
 .btn-round.btn-md {
-    border-radius: 44px;
+    border-radius: 10px;
 }
 
 .btn-round.btn-md:before {
