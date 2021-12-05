@@ -409,7 +409,6 @@ h6,
 .has-bg-image>[class*="container"],
 .has-bg-video>[class*="container"] {
     position: relative;
-    z-index: 5;
 }
 
 .nk-df-t,
