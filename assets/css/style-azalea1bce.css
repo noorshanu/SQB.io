@@ -8231,7 +8231,7 @@ ul.progress-info {
 .preloader:after {
     position: absolute;
     left: 0;
-    height: 51%;
+    height: 60%;
     width: 100%;
     transition: all 0.05s ease;
     background: #fff;
